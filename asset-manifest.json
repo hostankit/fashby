@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/project/fashby/static/css/main.34de6062.chunk.css",
-    "main.js": "/project/fashby/static/js/main.56af1e1b.chunk.js",
-    "main.js.map": "/project/fashby/static/js/main.56af1e1b.chunk.js.map",
-    "runtime~main.js": "/project/fashby/static/js/runtime~main.4b1fb7de.js",
-    "runtime~main.js.map": "/project/fashby/static/js/runtime~main.4b1fb7de.js.map",
-    "static/js/2.a99dd93b.chunk.js": "/project/fashby/static/js/2.a99dd93b.chunk.js",
-    "static/js/2.a99dd93b.chunk.js.map": "/project/fashby/static/js/2.a99dd93b.chunk.js.map",
-    "index.html": "/project/fashby/index.html",
-    "precache-manifest.82dc25979277581cb5445d2e9f3949c9.js": "/project/fashby/precache-manifest.82dc25979277581cb5445d2e9f3949c9.js",
-    "service-worker.js": "/project/fashby/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/project/fashby/static/css/main.34de6062.chunk.css.map"
+    "main.css": "/fashby/static/css/main.34de6062.chunk.css",
+    "main.js": "/fashby/static/js/main.26a07e28.chunk.js",
+    "main.js.map": "/fashby/static/js/main.26a07e28.chunk.js.map",
+    "runtime~main.js": "/fashby/static/js/runtime~main.485bcecf.js",
+    "runtime~main.js.map": "/fashby/static/js/runtime~main.485bcecf.js.map",
+    "static/js/2.e685b8b9.chunk.js": "/fashby/static/js/2.e685b8b9.chunk.js",
+    "static/js/2.e685b8b9.chunk.js.map": "/fashby/static/js/2.e685b8b9.chunk.js.map",
+    "index.html": "/fashby/index.html",
+    "precache-manifest.282a7083adcb7be71f0c808c89098063.js": "/fashby/precache-manifest.282a7083adcb7be71f0c808c89098063.js",
+    "service-worker.js": "/fashby/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/fashby/static/css/main.34de6062.chunk.css.map"
   }
 }
