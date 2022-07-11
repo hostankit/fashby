@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project/fashby/static/css/main.34de6062.chunk.css",
+    "main.js": "/project/fashby/static/js/main.56af1e1b.chunk.js",
+    "main.js.map": "/project/fashby/static/js/main.56af1e1b.chunk.js.map",
+    "runtime~main.js": "/project/fashby/static/js/runtime~main.4b1fb7de.js",
+    "runtime~main.js.map": "/project/fashby/static/js/runtime~main.4b1fb7de.js.map",
+    "static/js/2.a99dd93b.chunk.js": "/project/fashby/static/js/2.a99dd93b.chunk.js",
+    "static/js/2.a99dd93b.chunk.js.map": "/project/fashby/static/js/2.a99dd93b.chunk.js.map",
+    "index.html": "/project/fashby/index.html",
+    "precache-manifest.f9b91f59040e5fbf5eb944fd85c28bee.js": "/project/fashby/precache-manifest.f9b91f59040e5fbf5eb944fd85c28bee.js",
+    "service-worker.js": "/project/fashby/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/project/fashby/static/css/main.34de6062.chunk.css.map"
+  }
+}
